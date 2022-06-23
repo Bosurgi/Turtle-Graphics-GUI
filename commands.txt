@@ -1,0 +1,24 @@
+- Help: 		Shows the available commands
+- Forward <parameter>: 	Move forward by <parameter>
+- Backward <parameter>: 	Move backwards by <parameter>
+- TurnRight <parameter>: 	Turn right by <parameter> degrees
+- TurnLeft <parameter>: 	Turn left by <parameter> degrees
+- penup: 		set the pen up so it will not write
+- pendown: 		set the pen down so it will write
+- reset: 		Reset the turtle to the default position
+- new: 		Clear the canvas keeping the Turtle position
+- about: 		Start a graphic animation
+- black: 		Set the pen color to Black
+- yellow: 		Set the pen color to Yellow
+- blue: 		Set the pen color to Blue
+- green: 		Set the pen color to Green
+- red: 		Set the pen color to Red
+- white: 		Set the pen color to White
+- color <col#> <col#> <col#>: 	Set the pen color to <col#> <col#> <col#> - MAX 255
+- triangle: 		The turtle will draw a Triangle
+- square: 		The turtle will draw a Square
+- circle <rad>: 		A Circle with radius <rad> will be drew
+- peace: 		The symbol of Peace will appear on screen
+- save: 		Will save the image on screen
+- load: 		Will load the previous saved image
+- turtle:		Will change the turtle image with one of your choice
